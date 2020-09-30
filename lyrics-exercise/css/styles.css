@@ -1,0 +1,80 @@
+main {
+    column-width: auto;
+}
+
+p {
+    font-family: "Comic Sans MS";
+    color: seashell;
+}
+
+body {
+    background-color: green;
+}
+
+.one {
+    color: greenyellow;
+}
+
+.two {
+    color: hotpink;
+}
+
+.three {
+    color: blue;
+}
+
+.four {
+    color: darkred;
+}
+
+.five {
+    color: deeppink;
+}
+
+.six {
+    color: dodgerblue;
+}
+
+.seven {
+    color: honeydew;
+}
+
+.eight {
+    color: khaki;
+}
+
+.nine {
+    color: mediumslateblue;
+}
+
+.ten {
+    color: pink;
+}
+
+.eleven {
+    color: yellow;
+}
+
+.twelve {
+    color: thistle;
+}
+
+.thirteen {
+    color: violet;
+}
+
+.fourteen {
+    color: teal;
+}
+
+.fifteen {
+    color: slategray;
+}
+
+.sixteen {
+    color: tan;
+}
+
+.seventeen {
+    color: powderblue;
+}
