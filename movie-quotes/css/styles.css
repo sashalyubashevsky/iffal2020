@@ -1,0 +1,25 @@
+.line {
+    font-family: "Comic Sans MS";
+    color: white;
+}
+
+.name {
+    font-family: Papyrus;
+    font-weight: bold;
+    font-size: large;
+    color: peachpuff;
+}
+
+h1 {
+    font-family: "Brush Script Std", cursive;
+    color: red;
+}
+
+h2 {
+    font-family: "Curlz MT", cursive, fantasy;
+    color: purple;
+}
+
+body {
+    background-image: url(https://images8.alphacoders.com/799/799990.jpg);
+}
