@@ -1,0 +1,80 @@
+html {
+    font-family: 'Raleway', sans-serif;
+    font-size: 15pt;
+}
+
+body {
+    margin: 10%;
+}
+
+.pp {
+    color: gray;
+}
+
+h1 {
+    font-size: 50pt;
+    color: darkseagreen;
+}
+
+h2 {
+    margin-top: 10%;
+    color: darkseagreen;
+}
+
+h3 {
+    color: lightblue;
+}
+
+section {
+    text-indent: 2rem;
+    color: slategray;
+}
+
+.light {
+    font-weight: 300;
+}
+
+.medium {
+    font-weight: 500;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.loose {
+    letter-spacing: 0.5em;
+}
+
+.tight {
+    letter-spacing: -0.05em;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.under {
+    text-decoration: underline;
+}
+
+.over {
+    text-decoration: overline;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
