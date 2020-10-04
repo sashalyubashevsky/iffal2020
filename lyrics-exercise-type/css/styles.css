@@ -1,0 +1,37 @@
+.title {
+    font-family: lores-12, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60pt;
+    float: left;
+}
+
+h2 {
+    font-family: lores-12, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+main {
+    margin: 10%;
+}
+
+.img-right {
+    float: right;
+    margin: 5px;
+    margin-bottom: 30%;
+}
+
+html {
+    background-color: black;
+    color: floralwhite;
+}
+
+.lyrics {
+    font-family: ocr-a-std, monospace;
+    font-weight: 400;
+    font-style: normal;
+    color: floralwhite;
+    margin: 30%;
+    
+}
