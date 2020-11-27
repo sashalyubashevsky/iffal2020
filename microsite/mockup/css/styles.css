@@ -5,12 +5,16 @@ body {
     max-width: 960px;
     font-family: 'Inter', sans-serif;
     font-weight: 200;
-    background-color: tan;
+    background-color: black;
     color: snow;
 }
 
 h2 {
-    padding-top: 40px;
+    /*padding-top: 40px;*/
+}
+
+section {
+    padding-bottom: 40px;
 }
 
 img {
