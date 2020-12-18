@@ -38,23 +38,9 @@ section {
 
 img {
     float: right;
-    margin: 2rem;
-    margin-top: 0rem;
+    margin-left: 2rem;
     max-width: 50%;
     height: auto;
-}
-
-.pp {
-    float: left;
-    margin-top: 2rem;
-    margin-left: 0rem;
-}
-
-.bb {
-    float: none;
-    max-width: 100%;
-    margin-top: 3rem;
-    margin-bottom: 0;
 }
 
 .history {
